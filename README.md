@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -23,3 +24,7 @@ Crie seu próprio portfólio front-end, atentando-se para que seja autêntico, v
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+=======
+# dio-lab-portfolio
+felipi portfolio
+>>>>>>> ac0838d1859110df1e76971c647870b029f2cba5
